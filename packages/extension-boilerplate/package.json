@@ -39,7 +39,7 @@
     "postcss-loader": "^2.0.6",
     "style-loader": "^0.18.2",
     "url-loader": "^0.5.9",
-    "webpack": "^3.5.6"
+    "webpack": "^5.94.0"
   },
   "dependencies": {
     "webextension-polyfill": "https://github.com/corevo/webextension-polyfill#2cc27453b501e4426eb6741943fbb4041c0d18f5"
