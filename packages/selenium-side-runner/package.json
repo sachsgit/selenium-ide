@@ -44,7 +44,7 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-node8": "^1.2.0",
-    "npm": "^6.0.0",
+    "npm": "^11.8.0",
     "pkg": "https://github.com/corevo/pkg#a5a5e8717ca7ce17f51c32b4f82883f5cea9839a"
   }
 }
